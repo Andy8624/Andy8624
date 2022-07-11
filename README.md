@@ -29,9 +29,13 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src=""/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+  <img src="icons+gif/C_icon.png" alt="opencv" width="48" height="48"/>
+  <img src="icons+gif/C++_icon.png" alt="opencv" width="48" height="48"/>
+  <img src="icons+gif/icons8-html-5-48.png" alt="opencv" width="48" height="48"/>
+  <img src="icons+gif/icons8-css3-48.png" alt="opencv" width="48" height="48"/>
+  <img src="icons+gif/icons8-java-48.png" alt="opencv" width="48" height="48"/>
+  <img src="icons+gif/icons8-javascript-48.png" alt="opencv" width="48" height="48"/>
+  <img src="icons+gif/icons8-react-48.png" alt="opencv" width="48" height="48"/>
 </p>
 
 <table style="width:100%;">
