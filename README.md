@@ -30,7 +30,7 @@
 ## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src=""/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
@@ -42,7 +42,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="" alt="dev" width="100%"/>
+        <img src="icons+gif/sales-manager-openings.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
