@@ -9,7 +9,7 @@
 
 ## 📫 How to reach me:
 
-<p align="left">
+<p align="center">
   
   <a href="https://www.facebook.com/khangduong.2803" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
