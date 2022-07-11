@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duong Lap Khang</h1>
-<h3 align="center">A passionate developer from Viet Nam </h3>
+<h3 align="center">A web developer from Viet Nam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KhangDuong283" alt="KhangDuong283" /> </p>
 
 - ✍ I'm a college student of: [Can Tho University](https://www.ctu.edu.vn/) (CTU).
