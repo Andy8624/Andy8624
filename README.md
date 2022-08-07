@@ -42,7 +42,7 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangDuong283&layout=compact&theme=tokyonight&langs_count=6" height="150">
-      <img src="https://github-readme-stats.vercel.app/api?username=KhangDuong283&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150">
+      <img src="https://github-readme-stats.vercel.app/api?username=KhangDuong283&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="100%">
     </td>
     <td>
       <p align="center"> 
