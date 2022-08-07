@@ -41,8 +41,9 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangDuong283&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="KhangDuong283" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=KhangDuong283&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="KhangDuong283" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangDuong283&layout=compact&theme=tokyonight&langs_count=6" alt="KhangDuong283" width="100%"/>
+      
+      <img src="https://github-readme-stats.vercel.app/api?username=KhangDuong283&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="KhangDuong283" width="100%"/>
     </td>
     <td>
       <p align="center"> 
