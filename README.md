@@ -35,7 +35,6 @@
   <img src="icons+gif/icons8-css3-48.png" alt="opencv" width="48" height="48"/>
     <img src="icons+gif/icons8-javascript-48.png" alt="opencv" width="48" height="48"/>
   <img src="icons+gif/icons8-java-48.png" alt="opencv" width="48" height="48"/>
-  <img src="icons+gif/icons8-react-48.png" alt="opencv" width="48" height="48"/>
 </p>
 
 <table style="width:100%;">
