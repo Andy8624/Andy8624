@@ -75,7 +75,11 @@
 
 ## 📊 Top Languages & GitHub Stats:
 
-<div style="display: flex; justify-content: space-between; align-items: center; max-width: 100%;">
+<div style="display: flex; flex-direction: column; align-items: center; max-width: 100%; gap: 15px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy8624&layout=compact&theme=tokyonight&langs_count=6" style="height: 200px; object-fit: contain;">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andy8624&theme=tokyonight&hide_border=true" style="height: 200px; object-fit: contain;">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=Andy8624&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="height: 200px; object-fit: contain;">
 </div>
+
