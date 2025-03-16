@@ -14,12 +14,12 @@
 </p>
 
 ## 🚀 Skills:
-<p align="center">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; max-width: 80%; margin: auto;">
   <img src="icons+gif/java.png" width="48"/>
   <img src="icons+gif/spring.png" width="48"/>
   <img src="icons+gif/jwt.png" width="48"/>
-  <img src="icons+gif/react.jpg" width="48"/>
-  <img src="icons+gif/vue.jpeg" width="48"/>
+  <img src="icons+gif/react.png" width="48"/>
+  <img src="icons+gif/vue.png" width="48"/>
   <img src="icons+gif/antd.png" width="48"/>
   <img src="icons+gif/tailwind.png" width="48"/>
   <img src="icons+gif/nodejs.png" width="48"/>
@@ -27,17 +27,23 @@
   <img src="icons+gif/docker.jpeg" width="48"/>
   <img src="icons+gif/redis.png" width="48"/>
   <img src="icons+gif/kafka.png" width="48"/>
-</p>web
+</div>
+
 
 ## 🔥 Projects
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [E-commerce Website](#) | - A fully functional **e-commerce platform** with integrated recommendation system.  
-  - Implemented **User-based Collaborative Filtering (UBCF)** and **Content-based Filtering (CBF)** for personalized product suggestions.  
-  - Used **SigLIP2** for **image and text feature extraction** to enhance recommendation accuracy.  
-  - Enabled **visual product search** by leveraging **SigLIP2 image feature extraction**.  
-  - Integrated **real-time chat** using **WebSocket** for seamless customer communication.  
-  - Integrated **GHN API** for efficient shipping and order tracking. | Java, Spring Boot, React, Python, SigLIP2 |
+
+### [E-commerce Website](#)
+- A fully functional **E-commerce platform** with integrated recommendation system.  
+- Implemented **User-based Collaborative Filtering (UBCF)** and **Content-based Filtering (CBF)** for personalized product suggestions.  
+- Used **SigLIP2** for **image and text feature extraction** to enhance recommendation accuracy.  
+- Enabled **visual product search** by leveraging **SigLIP2 image feature extraction**.  
+- Integrated **semantic search** using **LLM Gemini** to enhance product discovery.  
+- Integrated **real-time chat** using **WebSocket** for seamless customer communication.  
+- Integrated **GHN API** for efficient shipping and order tracking.  
+
+**🛠 Technologies:**  
+`Java`, `Spring Boot`, `React`, `Python`, `SigLIP2`, `LLM Gemini`, `WebSocket`, `GHN API`
+
 
 
 ## 🎓 Certifications & Achievements
