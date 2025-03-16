@@ -1,31 +1,15 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
-<h3 align="center">A web developer from Viet Nam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=KhangDuong283" alt="KhangDuong283" /> </p>
+<h3 align="center">A Backend developer from Viet Nam </h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Andy8624" alt="Andy8624" /> </p>
 
 - ✍ I'm a college student of: [Can Tho University](https://www.ctu.edu.vn/) (CTU).
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **Spring Framework**
 
 
 ## 📫 How to reach me:
 
 <p align="center">
-  
-  <a href="https://www.facebook.com/khangduong.2803" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://www.linkedin.com/in/khangduong283/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://github.com/KhangDuong283" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="mailto:Khangss2803@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-</p>
-
-
 
 ## Skills:
 <p align="center">
