@@ -11,29 +11,39 @@
 - 🚀 Enjoy exploring new technologies and solving challenging problems.
 
 ## 📫 Connect with me:
-<p align="center">
-  <a href="mailto:your-email@example.com"><img src="icons+gif/gmail.jpg" width="40" alt="Gmail"/></a>
-  &nbsp;&nbsp;
-  <a href="your-linkedin-url"><img src="icons+gif/linkedin.png" width="40" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;
-  <a href="your-facebook-url"><img src="icons+gif/facebook.png" width="40" alt="Facebook"/></a>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
 
 
 ## 🚀 Skills:
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; max-width: 80%; margin: auto; gap: 15px;">
-  <img src="icons+gif/java.png" width="48"/>
-  <img src="icons+gif/spring.png" width="48"/>
-  <img src="icons+gif/jwt.png" width="48"/>
-  <img src="icons+gif/react.png" width="48"/>
-  <img src="icons+gif/vue.png" width="48"/>
-  <img src="icons+gif/antd.png" width="48"/>
-  <img src="icons+gif/tailwind.png" width="48"/>
-  <img src="icons+gif/nodejs.png" width="48"/>
-  <img src="icons+gif/typescript.png" width="48"/>
-  <img src="icons+gif/docker.jpeg" width="48"/>
-  <img src="icons+gif/redis.png" width="48"/>
-  <img src="icons+gif/kafka.png" width="48"/>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 
@@ -69,4 +79,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy8624&layout=compact&theme=tokyonight&langs_count=6" style="height: 200px; object-fit: contain;">
   <img src="https://github-readme-stats.vercel.app/api?username=Andy8624&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="height: 200px; object-fit: contain;">
 </div>
-
