@@ -50,7 +50,7 @@
 
 ## 🔥 Featured Projects
 
-### [E-commerce Website](#)
+### [E-commerce Website](https://github.com/Andy8624/ecommerce-website)
 - A fully functional **E-commerce platform** with integrated recommendation system.  
 - Implemented **User-based Collaborative Filtering (UBCF)** and **Content-based Filtering (CBF)** for personalized product suggestions.  
 - Used **SigLIP2** for **image and text feature extraction** to enhance recommendation accuracy.  
@@ -63,17 +63,17 @@
 `Java`, `Spring Boot`, `React`, `Python`, `SigLIP2`, `LLM Gemini`, `WebSocket`, `GHN API`
 
 
-
-
 ## 🎓 Certifications & Achievements
+
 - 🏆 Completed [**Spring Boot Course**](https://www.udemy.com/course/spring-springboot-jpa-hibernate-zero-to-master/) from Udemy.
 
 
-## 📈 GitHub Activity Graph:
+## 📉 GitHub Activity Graph:
 
 [![Andy8624's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andy8624&theme=react-dark)](https://github.com/Andy8624/github-readme-activity-graph)
 
-## 📈 Top Languages & GitHub Stats:
+
+## 📊 Top Languages & GitHub Stats:
 
 <div style="display: flex; justify-content: space-between; align-items: center; max-width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy8624&layout=compact&theme=tokyonight&langs_count=6" style="height: 200px; object-fit: contain;">
