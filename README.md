@@ -2,39 +2,57 @@
 <h3 align="center">A Backend Developer from Viet Nam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Andy8624" alt="Andy8624" /> </p>
 
-- ✍ I'm a college student of: [Can Tho University](https://www.ctu.edu.vn/) (CTU).
+- ✍ I'm a college student at: [Can Tho University](https://www.ctu.edu.vn/) (CTU).
 
-- 🌱 I’m currently learning **Spring Framework**
-
+- 🌱 I’m currently learning **Spring Framework**.
 
 ## 📫 How to reach me:
-
 <p align="center">
-
-## Skills:
-<p align="center">
-  <img src="icons+gif/C_icon.png" alt="opencv" width="48" height="48"/>
-  <img src="icons+gif/C++_icon.png" alt="opencv" width="48" height="48"/>
-  <img src="icons+gif/icons8-html-5-48.png" alt="opencv" width="48" height="48"/>
-  <img src="icons+gif/icons8-css3-48.png" alt="opencv" width="48" height="48"/>
-    <img src="icons+gif/icons8-javascript-48.png" alt="opencv" width="48" height="48"/>
-  <img src="icons+gif/icons8-java-48.png" alt="opencv" width="48" height="48"/>
+  <a href="mailto:your-email@example.com"><img src="icons+gif/email.png" width="40"/></a>
+  <a href="your-linkedin-url"><img src="icons+gif/linkedin.png" width="40"/></a>
+  <a href="your-facebook-url"><img src="icons+gif/facebook.png" width="40"/></a>
 </p>
+
+## 🚀 Skills:
+<p align="center">
+  <img src="icons+gif/java.png" width="48"/>
+  <img src="icons+gif/spring.png" width="48"/>
+  <img src="icons+gif/jwt.png" width="48"/>
+  <img src="icons+gif/react.jpg" width="48"/>
+  <img src="icons+gif/vue.jpeg" width="48"/>
+  <img src="icons+gif/antd.png" width="48"/>
+  <img src="icons+gif/tailwind.png" width="48"/>
+  <img src="icons+gif/nodejs.png" width="48"/>
+  <img src="icons+gif/typescript.png" width="48"/>
+  <img src="icons+gif/docker.jpeg" width="48"/>
+  <img src="icons+gif/redis.png" width="48"/>
+  <img src="icons+gif/kafka.png" width="48"/>
+</p>
+
+## 🔥 Projects
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Awesome Project](#) | A short description here | Java, Spring, Kafka |
+
+## 🎓 Certifications & Achievements
+- ✅ Completed **Spring Boot Course** from Udemy.
+
+## 📊 Github Stats:
+
+[![Andy8624's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andy8624&theme=react-dark)](https://github.com/Andy8624/github-readme-activity-graph)
 
 <table style="width:100%;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy8624&layout=compact&theme=tokyonight&langs_count=6" width="100%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Andy8624&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="100%">
     </td>
     <td>
-      <p align="center"> 
-        <img src="icons+gif/sales-manager-openings.gif" alt="dev" width="100%"/>
-      </p>
+      <img src="https://github-readme-stats.vercel.app/api?username=Andy8624&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="icons+gif/sales-manager-openings.gif" alt="dev" width="100%"/>
     </td>
   </tr>
 </table>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andy8624&theme=react-dark)](https://github.com/Andy8624/github-readme-activity-graph)
-
-
