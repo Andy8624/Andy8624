@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
-<h3 align="center">A Backend developer from Viet Nam </h3>
+<h3 align="center">A Backend Developer from Viet Nam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Andy8624" alt="Andy8624" /> </p>
 
 - ✍ I'm a college student of: [Can Tho University](https://www.ctu.edu.vn/) (CTU).
@@ -24,8 +24,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangDuong283&layout=compact&theme=tokyonight&langs_count=6" width="100%">
-      <img src="https://github-readme-stats.vercel.app/api?username=KhangDuong283&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy8624&layout=compact&theme=tokyonight&langs_count=6" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Andy8624&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="100%">
     </td>
     <td>
       <p align="center"> 
@@ -35,6 +35,6 @@
   </tr>
 </table>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KhangDuong283&theme=react-dark)](https://github.com/KhangDuong283/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KhangDuong283&theme=react-dark)](https://github.com/Andy8624/github-readme-activity-graph)
 
 
