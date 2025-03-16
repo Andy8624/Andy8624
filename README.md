@@ -8,8 +8,8 @@
 
 ## 📫 How to reach me:
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="icons+gif/email.png" width="40"/></a>
-  <a href="your-linkedin-url"><img src="icons+gif/linkedin.png" width="40"/></a>
+  <a href="mailto:your-email@example.com"><img src="icons+gif/gmail.jpg" width="40"/></a>
+  <a href="your-linkedin-url"><img src="icons+gif/lindkedin.png" width="40"/></a>
   <a href="your-facebook-url"><img src="icons+gif/facebook.png" width="40"/></a>
 </p>
 
@@ -27,32 +27,32 @@
   <img src="icons+gif/docker.jpeg" width="48"/>
   <img src="icons+gif/redis.png" width="48"/>
   <img src="icons+gif/kafka.png" width="48"/>
-</p>
+</p>web
 
 ## 🔥 Projects
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Awesome Project](#) | A short description here | Java, Spring, Kafka |
+| [E-commerce Website](#) | - A fully functional **e-commerce platform** with integrated recommendation system.  
+  - Implemented **User-based Collaborative Filtering (UBCF)** and **Content-based Filtering (CBF)** for personalized product suggestions.  
+  - Used **SigLIP2** for **image and text feature extraction** to enhance recommendation accuracy.  
+  - Enabled **visual product search** by leveraging **SigLIP2 image feature extraction**.  
+  - Integrated **real-time chat** using **WebSocket** for seamless customer communication.  
+  - Integrated **GHN API** for efficient shipping and order tracking. | Java, Spring Boot, React, Python, SigLIP2 |
+
 
 ## 🎓 Certifications & Achievements
-- ✅ Completed **Spring Boot Course** from Udemy.
+- ✅ Completed [**Spring Boot Course**](https://www.udemy.com/course/spring-springboot-jpa-hibernate-zero-to-master/) from Udemy.
+
 
 ## 📊 Github Stats:
 
 [![Andy8624's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andy8624&theme=react-dark)](https://github.com/Andy8624/github-readme-activity-graph)
 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy8624&layout=compact&theme=tokyonight&langs_count=6" width="100%">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Andy8624&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="icons+gif/sales-manager-openings.gif" alt="dev" width="100%"/>
-    </td>
-  </tr>
-</table>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy8624&layout=compact&theme=tokyonight&langs_count=6" width="100%">
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Andy8624&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="100%">
+</div>
+
