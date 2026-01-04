@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
-<h3 align="center">A Backend Developer from Viet Nam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Andy8624" alt="Andy8624" /> </p>
+<h3 align="center">Junior Software Engineer at FPT Software | Backend Developer from Viet Nam</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Andy8624" alt="Andy8624" />
+</p>
 
-- ✍ I'm a college student at: [Can Tho University](https://www.ctu.edu.vn/) (CTU).
-
-- 🌱 I’m currently learning **Spring Framework**.
-
-- 👨‍💻 Passionate about building scalable backend services, recommendation systems.
-
-- 🚀 Enjoy exploring new technologies and solving challenging problems.
+- 🎓 Graduated from **Can Tho University (CTU)** with **GPA: 3.8/4.0**  
+- 💼 Currently working as a **Junior Software Engineer at FPT Software**  
+- 🌱 Specialized in **Backend Development** with **Spring Framework**  
+- 👨‍💻 Passionate about building **scalable backend systems**, **distributed systems**, and **recommendation systems**  
+- 🚀 Enjoy exploring new technologies and solving challenging problems
 
 ## 📫 Connect with me:
 <div align="center">
@@ -21,30 +21,38 @@
 ## 🚀 Skills:
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <!-- Spring Framework -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+
+  <!-- FastAPI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+
+  <!-- AWS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="40" alt="vuejs logo"  />
+
+  <!-- Redis -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+
+  <!-- Kafka -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="kafka logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
 </div>
+
 
 
 
@@ -71,15 +79,4 @@
 ## 📉 GitHub Activity Graph:
 
 [![Andy8624's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andy8624&theme=react-dark)](https://github.com/Andy8624/github-readme-activity-graph)
-
-
-## 📊 Top Languages & GitHub Stats:
-
-<div align="center" style="display: flex; flex-direction: column; align-items: center; max-width: 100%; gap: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy8624&layout=compact&theme=tokyonight&langs_count=6" style="height: 200px; object-fit: contain;">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andy8624&theme=tokyonight&hide_border=false" style="height: 200px; object-fit: contain;">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Andy8624&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="height: 200px; object-fit: contain;">
-</div>
 
